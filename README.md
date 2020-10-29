@@ -3,7 +3,7 @@
 
 - Nickname: lrqtech
 
-- Understand: Golang
+- Understand: Golang，Kotlin，Python，C，Ruby and a little PHP & Rust
 
 - 🌱 I’m currently learning golang.
 
