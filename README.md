@@ -5,7 +5,7 @@
 
 - Understand: Golang，Kotlin，Python，C，Ruby and a little PHP & Rust
 
-- 🌱 I’m currently learning golang.
+- 🌱 I’m currently learning Rust.
 
 
 
