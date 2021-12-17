@@ -1,11 +1,11 @@
-## About Me
+# About Me
 
 
 - Nickname: lrqtech
 
-- Understand: Golang，Kotlin，Python，C，Ruby and a little PHP & Rust
+- Understand: Golang, Kotlin, C & Rust
 
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Swift.
 
 
 
